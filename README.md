@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
   
-  
+<div style={{ bgColor: "red" }}>
 LANGUEGE
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -72,4 +72,5 @@ OS
 <div>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+</div>
 </div>
