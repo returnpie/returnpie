@@ -69,9 +69,5 @@ DB
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/>
 </div>
-OS
-<div>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-</div>
+
 </div>
