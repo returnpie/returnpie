@@ -25,7 +25,7 @@ FRONTEND
 
 DATAFRAME
 <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apollo GraphQL-E434AA?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApolloGraphQL-E434AA?style=flat-square&logo=ApolloGraphQL&logoColor=white"/>
 
 BACKEND
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
