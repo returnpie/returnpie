@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
   
 <div style={{ backGround: "red" }}>
-  
 LANGUEGE
 <div>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -69,5 +68,4 @@ DB
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/>
 </div>
-
 </div>
