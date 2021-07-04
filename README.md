@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 <div style={{ backGround: "red" }}>
  
-  <b>LANGUEGE</b>
+<b>LANGUEGE</b>
 <div>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 <br/>  
   
-FRONTEND
+<b>FRONTEND</b>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -42,14 +42,14 @@ FRONTEND
 </div>
 <br/>  
   
-DATAFRAME
+<b>DATAFRAME</b>
 <div>
 <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/ApolloGraphQL-E434AA?style=flat-square&logo=ApolloGraphQL&logoColor=white"/>
 </div>
 <br/>
   
-BACKEND
+<b>BACKEND</b>
 <div>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/tsNode-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
@@ -58,7 +58,7 @@ BACKEND
 </div>
 <br/>
   
-DB
+<b>DB</b>
 <div>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
@@ -68,7 +68,7 @@ DB
 </div>
 <br/>
   
-🔥INFRA🔥
+🔥<b>INFRA</b>🔥
 <div>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
