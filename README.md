@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <div style={{ align="center" }}>
   
-  <div>
   
     LANGUEGE
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -76,4 +75,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   </div>
-</div>
